@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">EggCamera</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_home">Camera</string>
+    <string name="title_dashboard">Media</string>
+
+    <string name="input_indicate">pls input url</string>
+    <string name="input_url">rtsp://192.168.0.1:554/livestream/12</string>
+    <string name="play">play</string>
+    <string name="input_file">Input_file</string>
+    <string name="waiting">Loading</string>
+    <string name="media_imageview_txt">图片</string>
+    <string name="media_video_txt">视频</string>
+    <string name="main_could_not_open_stream">conn</string>
+    <!--相机参数-->
+    <!--所有分辨率-->
+    <string name="resolution_1">720P120</string>
+    <string name="resolution_2">720P240</string>
+    <string name="resolution_3">1080P60</string>
+    <string name="resolution_4">1080P120</string>
+    <string name="resolution_5">4K2K30</string>
+    <string name="resolution_6">1440P30</string>
+    <string name="resolution_7">2.7KP30</string>
+    <!--所有时间-->
+    <string name="time1">1min</string>
+    <string name="time2">2min</string>
+    <string name="time3">5min</string>
+    <string name="time4">10min</string>
+    <string name="time5">0.5S</string>
+    <string name="time6">1S</string>
+    <string name="time7">2S</string>
+    <string name="time8">3S</string>
+    <string name="time9">5S</string>
+    <string name="time10">10S</string>
+    <string name="time11">20S</string>
+    <string name="time12">30S</string>
+    <string name="time13">60S</string>
+    <string name="time14">AUTO</string>
+    <string name="time15">15S</string>
+
+    <string name="iso_1">AUTO</string>
+    <string name="iso_2">100</string>
+    <string name="iso_3">200</string>
+    <string name="iso_4">400</string>
+    <string name="iso_5">800</string>
+    <string name="iso_6">1600</string>
+    <string name="iso_7">3200</string>
+    <string name="iso_8">6400</string>
+
+    <string name="ev_1">AUTO</string>
+    <string name="ev_2">2.0</string>
+    <string name="ev_3">1.5</string>
+    <string name="ev_4">1.0</string>
+    <string name="ev_5">0.5</string>
+    <string name="ev_6">0</string>
+    <string name="ev_7">-0.5</string>
+    <string name="ev_8">-1.0</string>
+    <string name="ev_9">-1.5</string>
+    <string name="ev_10">-2.0</string>
+
+    <string name="wb_1">AUTO</string>
+    <string name="wb_2">2800K</string>
+    <string name="wb_3">4000k</string>
+    <string name="wb_4">5000k</string>
+    <string name="wb_5">6500K</string>
+    <string name="wb_6">7500K</string>
+
+    <string name="photometry_model_1">平均</string>
+    <string name="photometry_model_2">中心</string>
+
+    <string name="burs_resolution_1">8M</string>
+    <string name="burs_resolution_2">12M</string>
+
+    <string name="burs_mode_1">3P1</string>
+    <string name="burs_mode_2">5P1</string>
+    <string name="burs_mode_3">10P1</string>
+    <string name="burs_mode_4">15P1</string>
+    <string name="burs_mode_5">30P1</string>
+    <string name="burs_mode_6">20P3</string>
+    <string name="burs_mode_7">30P2</string>
+    <string name="burs_mode_8">30P3</string>
+
+    <string name="take_photos_1">NORMAL</string>
+    <string name="take_photos_2">HDR</string>
+    <string name="take_photos_3">AUTO</string>
+    <string name="take_photos_4">FAST</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

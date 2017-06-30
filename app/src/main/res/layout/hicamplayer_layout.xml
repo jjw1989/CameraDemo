@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.android.percent.support.PercentRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <SurfaceView
+        android:id="@+id/playView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_alignParentTop="true"
+        android:background="@color/camera"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        app:layout_heightPercent="12%h"
+        app:layout_widthPercent="100%w">
+
+        <ImageView
+            android:id="@+id/imgBack"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/back_icon" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="返回"
+            android:visibility="gone"
+            android:textColor="@color/notification_background" />
+    </LinearLayout>
+
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/linearLayout"
+        android:background="@color/camera"
+        app:layout_heightPercent="100%h"
+        app:layout_widthPercent="10%w">
+
+        <ToggleButton
+            android:id="@+id/right_video_tb"
+            android:layout_width="60dp"
+            android:layout_height="30dp"
+            android:layout_above="@+id/video_camera_start"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="30dp"
+            android:background="@drawable/shot_video_sel"
+            android:button="@null"
+            android:checked="false"
+            android:textOff=""
+            android:textOn="" />
+
+        <com.powervision.gcs.camera.view.CircleProgress
+            android:id="@+id/video_camera_start"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:background="@mipmap/video_start"
+            app:Pb_Inside_Interval="5"
+            app:Pb_Paint_Color="0xff00c9ff"
+            app:Pb_Paint_Width="4"
+            app:Pb_fill="false"
+            app:Pb_max="100" />
+
+        <ImageView
+            android:id="@+id/img_media"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/video_camera_start"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp"
+            android:background="@mipmap/right_ablum" />
+
+        <ImageView
+            android:id="@+id/img_set"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/img_media"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="25dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:background="@mipmap/right_setting" />
+    </RelativeLayout>
+
+    <FrameLayout
+        android:id="@+id/cameraRoot"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_heightPercent="100%h"
+        app:layout_widthPercent="50%w" />
+
+</com.zhy.android.percent.support.PercentRelativeLayout>

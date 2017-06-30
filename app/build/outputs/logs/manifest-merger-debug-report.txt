@@ -1,0 +1,311 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:2:1-59:12
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\multidex-1.0.1.aar\a3b356b4978cd63ed88dc0374d4184ee\AndroidManifest.xml:16:1-19:12
+MERGED from [:jcvideoplayer-lib] C:\new_workspace\EggCamera\jcvideoplayer-lib\build\intermediates\bundles\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\2494ebe36fa7111c99b915a439392cf0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.zhy:percent-support-extends:1.1.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\percent-support-extends-1.1.1.aar\c2db981a154f29e5dc4dd942d32b02ac\AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\aa57d3e6ab32119b767dff640442abd7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\8255777fc31d09a2a3d1b3ff8c92adc0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\81b7d898544dd0b23dee7b14f93e0d1b\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\ee57a08db6a46b9e8af2709a0d0572fd\AndroidManifest.xml:17:1-28:12
+MERGED from [:cameralibrary] C:\new_workspace\EggCamera\cameralibrary\build\intermediates\bundles\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.hwangjr.rxbus:rxbus:2.0.0-beta] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\rxbus-2.0.0-beta.aar\ade98bef8742e0dc294f8465a0f465f3\AndroidManifest.xml:2:1-14:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\803a14997de4765d26a6712dd7a5bfb7\AndroidManifest.xml:15:1-21:12
+MERGED from [com.alibaba:arouter-api:1.2.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\arouter-api-1.2.1.aar\e3a53823ac2a7914f6e39cd448b3747c\AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\99062ff3e4a9d99710a820dfc68f7c15\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-plus:10.2.6] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\play-services-plus-10.2.6.aar\68ed3e30c8ab9dfffe0b9badaaf50801\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.6.aar\20d52f9b13cae4e4bea553d57cf7293e\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.6.aar\7a412fc54daa85160accd1064f9e48de\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.6.aar\85548a6badf1893c6a007318fe8cc5c8\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\7b3031230f5322f29b1a838d003f0268\AndroidManifest.xml:17:1-31:12
+MERGED from [com.flyco.dialog:FlycoDialog_Lib:1.3.2] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\FlycoDialog_Lib-1.3.2.aar\942d6e843d16cb577d4d9c4103288cb6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.huxq17.xrefreshview:xrefreshview:3.6.9] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\xrefreshview-3.6.9.aar\8b0bed18b655b98bf1caf5e914049ec4\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\d4eb3a5924e25b4cd905e7057df46d48\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\0d2526d7c1a1bb35de90ee084300e349\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\d04feb2d00cd26fe56ad5133f267efd3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\5b0899279cf58ae657b82a55de887c31\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\1aefa89d870c05c1ea6d7b35735ec57e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\4ca54d7935b055fab25f85d39dfc034d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\f185e120dcfe2755f251cc4d74d7000e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.jakewharton.timber:timber:4.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\timber-4.3.1.aar\fbd90ddd650654f7a5accc87437f7d20\AndroidManifest.xml:2:1-10:12
+INJECTED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:2:1-59:12
+	package
+		ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml
+		INJECTED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml
+		INJECTED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml
+		INJECTED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:5:22-65
+uses-permission#android.permission.INTERNET
+ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.RESTART_PACKAGES
+ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:8:22-72
+application
+ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:10:5-57:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\2494ebe36fa7111c99b915a439392cf0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\2494ebe36fa7111c99b915a439392cf0\AndroidManifest.xml:29:5-20
+MERGED from [com.zhy:percent-support-extends:1.1.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\percent-support-extends-1.1.1.aar\c2db981a154f29e5dc4dd942d32b02ac\AndroidManifest.xml:11:5-14:19
+MERGED from [com.zhy:percent-support-extends:1.1.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\percent-support-extends-1.1.1.aar\c2db981a154f29e5dc4dd942d32b02ac\AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\aa57d3e6ab32119b767dff640442abd7\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\aa57d3e6ab32119b767dff640442abd7\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\8255777fc31d09a2a3d1b3ff8c92adc0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\8255777fc31d09a2a3d1b3ff8c92adc0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\81b7d898544dd0b23dee7b14f93e0d1b\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\81b7d898544dd0b23dee7b14f93e0d1b\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\ee57a08db6a46b9e8af2709a0d0572fd\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\ee57a08db6a46b9e8af2709a0d0572fd\AndroidManifest.xml:26:5-20
+MERGED from [com.hwangjr.rxbus:rxbus:2.0.0-beta] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\rxbus-2.0.0-beta.aar\ade98bef8742e0dc294f8465a0f465f3\AndroidManifest.xml:9:5-12:19
+MERGED from [com.hwangjr.rxbus:rxbus:2.0.0-beta] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\rxbus-2.0.0-beta.aar\ade98bef8742e0dc294f8465a0f465f3\AndroidManifest.xml:9:5-12:19
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\99062ff3e4a9d99710a820dfc68f7c15\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\99062ff3e4a9d99710a820dfc68f7c15\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-plus:10.2.6] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\play-services-plus-10.2.6.aar\68ed3e30c8ab9dfffe0b9badaaf50801\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.2.6] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\play-services-plus-10.2.6.aar\68ed3e30c8ab9dfffe0b9badaaf50801\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.6.aar\20d52f9b13cae4e4bea553d57cf7293e\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.6.aar\20d52f9b13cae4e4bea553d57cf7293e\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.6.aar\7a412fc54daa85160accd1064f9e48de\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.6.aar\7a412fc54daa85160accd1064f9e48de\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.6.aar\85548a6badf1893c6a007318fe8cc5c8\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.6.aar\85548a6badf1893c6a007318fe8cc5c8\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\7b3031230f5322f29b1a838d003f0268\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\7b3031230f5322f29b1a838d003f0268\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\d4eb3a5924e25b4cd905e7057df46d48\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\d4eb3a5924e25b4cd905e7057df46d48\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\d04feb2d00cd26fe56ad5133f267efd3\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\d04feb2d00cd26fe56ad5133f267efd3\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\5b0899279cf58ae657b82a55de887c31\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\5b0899279cf58ae657b82a55de887c31\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\1aefa89d870c05c1ea6d7b35735ec57e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\1aefa89d870c05c1ea6d7b35735ec57e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\4ca54d7935b055fab25f85d39dfc034d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\4ca54d7935b055fab25f85d39dfc034d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\f185e120dcfe2755f251cc4d74d7000e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\f185e120dcfe2755f251cc4d74d7000e\AndroidManifest.xml:29:5-20
+MERGED from [com.jakewharton.timber:timber:4.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\timber-4.3.1.aar\fbd90ddd650654f7a5accc87437f7d20\AndroidManifest.xml:8:5-20
+MERGED from [com.jakewharton.timber:timber:4.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\timber-4.3.1.aar\fbd90ddd650654f7a5accc87437f7d20\AndroidManifest.xml:8:5-20
+	android:supportsRtl
+		ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:17:9-40
+	android:name
+		ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:11:9-46
+activity#com.powervision.gcs.camera.ui.MenuActivity
+ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:18:9-22:59
+	android:screenOrientation
+		ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:21:13-49
+	android:label
+		ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:20:13-45
+	android:theme
+		ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:19:13-44
+activity#com.powervision.gcs.camera.ui.WelcomeActivity
+ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:23:9-32:20
+	android:screenOrientation
+		ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:25:13-49
+	android:theme
+		ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:24:13-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:30:27-74
+activity#com.powervision.gcs.camera.ui.aty.camera.HiCamPlayerActivity
+ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:33:9-37:59
+	android:screenOrientation
+		ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:36:13-50
+	android:label
+		ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:35:13-45
+	android:theme
+		ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:37:13-56
+	android:name
+		ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:34:13-62
+activity#com.powervision.gcs.camera.ui.aty.camera.MediaActivity
+ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:38:9-41:59
+	android:screenOrientation
+		ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:40:13-49
+	android:theme
+		ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:41:13-56
+	android:name
+		ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:39:13-56
+activity#com.powervision.gcs.camera.ui.aty.camera.PlayNetVideoActivity
+ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:42:9-44:59
+	android:theme
+		ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:44:13-56
+	android:name
+		ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:43:13-63
+service#com.powervision.gcs.camera.socket.service.CoreService
+ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:46:9-49:39
+	android:enabled
+		ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:48:13-35
+	android:exported
+		ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:49:13-36
+	android:name
+		ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:47:13-55
+activity#com.powervision.gcs.camera.ui.aty.camera.VideoPlayActivity
+ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:51:9-56:15
+	android:screenOrientation
+		ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:52:13-50
+	android:launchMode
+		ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:55:13-44
+	android:hardwareAccelerated
+		ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:53:13-47
+	android:theme
+		ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:54:13-56
+	android:name
+		ADDED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml:51:19-66
+uses-sdk
+INJECTED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml
+INJECTED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\multidex-1.0.1.aar\a3b356b4978cd63ed88dc0374d4184ee\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\multidex-1.0.1.aar\a3b356b4978cd63ed88dc0374d4184ee\AndroidManifest.xml:18:5-42
+MERGED from [:jcvideoplayer-lib] C:\new_workspace\EggCamera\jcvideoplayer-lib\build\intermediates\bundles\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:jcvideoplayer-lib] C:\new_workspace\EggCamera\jcvideoplayer-lib\build\intermediates\bundles\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\2494ebe36fa7111c99b915a439392cf0\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\2494ebe36fa7111c99b915a439392cf0\AndroidManifest.xml:21:5-23:62
+MERGED from [com.zhy:percent-support-extends:1.1.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\percent-support-extends-1.1.1.aar\c2db981a154f29e5dc4dd942d32b02ac\AndroidManifest.xml:7:5-9:41
+MERGED from [com.zhy:percent-support-extends:1.1.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\percent-support-extends-1.1.1.aar\c2db981a154f29e5dc4dd942d32b02ac\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\aa57d3e6ab32119b767dff640442abd7\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\aa57d3e6ab32119b767dff640442abd7\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\8255777fc31d09a2a3d1b3ff8c92adc0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\8255777fc31d09a2a3d1b3ff8c92adc0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\81b7d898544dd0b23dee7b14f93e0d1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\81b7d898544dd0b23dee7b14f93e0d1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\ee57a08db6a46b9e8af2709a0d0572fd\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\ee57a08db6a46b9e8af2709a0d0572fd\AndroidManifest.xml:20:5-43
+MERGED from [:cameralibrary] C:\new_workspace\EggCamera\cameralibrary\build\intermediates\bundles\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:cameralibrary] C:\new_workspace\EggCamera\cameralibrary\build\intermediates\bundles\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.hwangjr.rxbus:rxbus:2.0.0-beta] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\rxbus-2.0.0-beta.aar\ade98bef8742e0dc294f8465a0f465f3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.hwangjr.rxbus:rxbus:2.0.0-beta] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\rxbus-2.0.0-beta.aar\ade98bef8742e0dc294f8465a0f465f3\AndroidManifest.xml:5:5-7:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\803a14997de4765d26a6712dd7a5bfb7\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\803a14997de4765d26a6712dd7a5bfb7\AndroidManifest.xml:19:5-43
+MERGED from [com.alibaba:arouter-api:1.2.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\arouter-api-1.2.1.aar\e3a53823ac2a7914f6e39cd448b3747c\AndroidManifest.xml:6:5-8:41
+MERGED from [com.alibaba:arouter-api:1.2.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\arouter-api-1.2.1.aar\e3a53823ac2a7914f6e39cd448b3747c\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\99062ff3e4a9d99710a820dfc68f7c15\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\99062ff3e4a9d99710a820dfc68f7c15\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:10.2.6] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\play-services-plus-10.2.6.aar\68ed3e30c8ab9dfffe0b9badaaf50801\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:10.2.6] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\play-services-plus-10.2.6.aar\68ed3e30c8ab9dfffe0b9badaaf50801\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.6.aar\20d52f9b13cae4e4bea553d57cf7293e\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.6.aar\20d52f9b13cae4e4bea553d57cf7293e\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.6.aar\7a412fc54daa85160accd1064f9e48de\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.6.aar\7a412fc54daa85160accd1064f9e48de\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.6.aar\85548a6badf1893c6a007318fe8cc5c8\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.6.aar\85548a6badf1893c6a007318fe8cc5c8\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\7b3031230f5322f29b1a838d003f0268\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\7b3031230f5322f29b1a838d003f0268\AndroidManifest.xml:21:5-23:54
+MERGED from [com.flyco.dialog:FlycoDialog_Lib:1.3.2] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\FlycoDialog_Lib-1.3.2.aar\942d6e843d16cb577d4d9c4103288cb6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.flyco.dialog:FlycoDialog_Lib:1.3.2] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\FlycoDialog_Lib-1.3.2.aar\942d6e843d16cb577d4d9c4103288cb6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huxq17.xrefreshview:xrefreshview:3.6.9] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\xrefreshview-3.6.9.aar\8b0bed18b655b98bf1caf5e914049ec4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huxq17.xrefreshview:xrefreshview:3.6.9] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\xrefreshview-3.6.9.aar\8b0bed18b655b98bf1caf5e914049ec4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\d4eb3a5924e25b4cd905e7057df46d48\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\d4eb3a5924e25b4cd905e7057df46d48\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\0d2526d7c1a1bb35de90ee084300e349\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\0d2526d7c1a1bb35de90ee084300e349\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\d04feb2d00cd26fe56ad5133f267efd3\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\d04feb2d00cd26fe56ad5133f267efd3\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\5b0899279cf58ae657b82a55de887c31\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\5b0899279cf58ae657b82a55de887c31\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\1aefa89d870c05c1ea6d7b35735ec57e\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\1aefa89d870c05c1ea6d7b35735ec57e\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\4ca54d7935b055fab25f85d39dfc034d\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\4ca54d7935b055fab25f85d39dfc034d\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\f185e120dcfe2755f251cc4d74d7000e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\f185e120dcfe2755f251cc4d74d7000e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.jakewharton.timber:timber:4.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\timber-4.3.1.aar\fbd90ddd650654f7a5accc87437f7d20\AndroidManifest.xml:6:5-43
+MERGED from [com.jakewharton.timber:timber:4.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\timber-4.3.1.aar\fbd90ddd650654f7a5accc87437f7d20\AndroidManifest.xml:6:5-43
+INJECTED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml
+INJECTED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\2494ebe36fa7111c99b915a439392cf0\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml
+		INJECTED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml
+		INJECTED from C:\new_workspace\EggCamera\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:jcvideoplayer-lib] C:\new_workspace\EggCamera\jcvideoplayer-lib\build\intermediates\bundles\debug\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [:jcvideoplayer-lib] C:\new_workspace\EggCamera\jcvideoplayer-lib\build\intermediates\bundles\debug\AndroidManifest.xml:11:22-76
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\2494ebe36fa7111c99b915a439392cf0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\aa57d3e6ab32119b767dff640442abd7\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\aa57d3e6ab32119b767dff640442abd7\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\81b7d898544dd0b23dee7b14f93e0d1b\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\81b7d898544dd0b23dee7b14f93e0d1b\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\ee57a08db6a46b9e8af2709a0d0572fd\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\ee57a08db6a46b9e8af2709a0d0572fd\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\99062ff3e4a9d99710a820dfc68f7c15\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\99062ff3e4a9d99710a820dfc68f7c15\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\7b3031230f5322f29b1a838d003f0268\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\7b3031230f5322f29b1a838d003f0268\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\d4eb3a5924e25b4cd905e7057df46d48\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\d4eb3a5924e25b4cd905e7057df46d48\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\0d2526d7c1a1bb35de90ee084300e349\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\0d2526d7c1a1bb35de90ee084300e349\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\d04feb2d00cd26fe56ad5133f267efd3\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\d04feb2d00cd26fe56ad5133f267efd3\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\5b0899279cf58ae657b82a55de887c31\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\5b0899279cf58ae657b82a55de887c31\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\1aefa89d870c05c1ea6d7b35735ec57e\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\1aefa89d870c05c1ea6d7b35735ec57e\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\4ca54d7935b055fab25f85d39dfc034d\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\4ca54d7935b055fab25f85d39dfc034d\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\f185e120dcfe2755f251cc4d74d7000e\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\f185e120dcfe2755f251cc4d74d7000e\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\2494ebe36fa7111c99b915a439392cf0\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\2494ebe36fa7111c99b915a439392cf0\AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.6.aar\20d52f9b13cae4e4bea553d57cf7293e\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.6.aar\20d52f9b13cae4e4bea553d57cf7293e\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.6.aar\20d52f9b13cae4e4bea553d57cf7293e\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.6.aar\20d52f9b13cae4e4bea553d57cf7293e\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.6.aar\85548a6badf1893c6a007318fe8cc5c8\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.6.aar\85548a6badf1893c6a007318fe8cc5c8\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\Sundy\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.6.aar\85548a6badf1893c6a007318fe8cc5c8\AndroidManifest.xml:20:20-65

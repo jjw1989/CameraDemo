@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyCircleProgressBar">
+        <attr name="Pb_max" format="integer" />
+        <!-- 进度条最大值 -->
+        <attr name="Pb_fill" format="boolean" />
+        <!-- 是否填充圆形区域 -->
+        <attr name="Pb_Paint_Width" format="integer" />
+        <!-- 画笔宽度，填充模式下无效，会被重置为0 -->
+        <attr name="Pb_Paint_Color" format="integer" />
+        <!-- 画笔颜色 -->
+        <attr name="Pb_Inside_Interval" format="integer" />
+        <!-- 圆形区域向里缩进的距离 -->
+    </declare-styleable>
+</resources>

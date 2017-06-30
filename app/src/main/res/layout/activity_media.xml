@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/media_content"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.powervision.gcs.camera.ui.aty.camera.MediaActivity">
+
+    <com.andview.refreshview.XRefreshView
+        android:id="@+id/xrefreshView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#fff">
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/mediaRv"
+            android:layout_width="match_parent"
+            android:scrollbars="vertical"
+            android:layout_height="match_parent" />
+    </com.andview.refreshview.XRefreshView>
+</RelativeLayout>
